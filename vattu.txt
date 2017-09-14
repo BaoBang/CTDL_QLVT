@@ -1,0 +1,80 @@
+D02
+Den Loai 2
+Cai
+3000
+D03
+Den Loai 3
+Cai
+30000
+G01
+Gach Loai 1
+Vien
+350000
+G02
+Gach Loai 2
+Vien
+449000
+G03
+Gach Loai 3
+Vien
+29000
+G04
+Gach Loai 4
+Vien
+45000
+K01
+Kinh Loai 1
+Tam
+1000
+K02
+Kinh Loai 2
+Tam
+1400
+K03
+Kinh Loai 3
+Tam
+3500
+S01
+Son Loai 1
+Thung
+4950
+S02
+Son Loai 2
+Thung
+6000
+T01
+Ton Loai 1
+Tam
+2000
+T02
+Ton Loai 2
+Tam
+2000
+TH01
+Thep Vuong Loai 1
+Tan
+100
+TH02
+Thep Loai 2
+Tan
+100
+TH03
+Thep Loai 3
+Tan
+100
+TH04
+Thep Loai 4
+Tan
+100
+X01
+Xi Mang Loai 1
+Bao
+12000
+X02
+Xi Mang Loai 2
+Bao
+20000
+X03
+Xi Mang Loai 3
+Bao
+15000
